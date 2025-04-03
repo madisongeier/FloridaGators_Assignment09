@@ -1,13 +1,15 @@
 # Main.py
 # Madison Geier
+# Cole Crooks
 # geierml@mail.uc.edu
+# crookscl@mail.uc.edu
 # Assignment09
 # 4/3/25
 # IS4010 002
 # Spring 2025
 # Brief Description of the assignment:  developing a vs project to access sql serve databases and pull information
 
-# Brief Description of what this module does. {Do not copy/paste from a previous assignment. Put some thought into this. required}
+# Brief Description of what this module does. This module furthers our knowledge of python by providing the tools and education to link and extract inforomation from a sql server database to a python project.
 # Citations: w3schools and OWASP Foundation
 
 # Anything else that's relevant:
